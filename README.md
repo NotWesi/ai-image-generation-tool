@@ -32,9 +32,9 @@ Start the development server:
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-OpenAI GPT-3: The AI model used for generating images.
-React: The JavaScript library used for building the user interface.
-Node.js: The JavaScript runtime used for server-side development.
+- OpenAI GPT-3: The AI model used for generating images.
+- React: The JavaScript library used for building the user interface.
+- Node.js: The JavaScript runtime used for server-side development.
 
 
 
