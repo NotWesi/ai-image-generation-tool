@@ -24,9 +24,9 @@ Start the development server:
 3. Follow the on-screen instructions to input prompts, upload images, and generate AI-generated images or variations.
 
 ## Technologies Used
-React: JavaScript library for building user interfaces.
-Node.js: JavaScript runtime environment.
-JavaScript: Programming language used for the web application's logic.
+- React: JavaScript library for building user interfaces.
+- Node.js: JavaScript runtime environment.
+- JavaScript: Programming language used for the web application's logic.
 
 ## License
 This project is licensed under the MIT License.
